@@ -1,1 +1,17 @@
-# agua
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <h1>Bienvenido a Agua Purificada Bratt </h1>
+        <p>  Esta es una Pagina Oficial de Agua Purificada </p>
+        <a href="#" class="Boton-redireccion ">Click Aqui Para ir a WhatsApp</a>
+    </div>
+</body>
+</html>
